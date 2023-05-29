@@ -1,5 +1,5 @@
 # odin-recipes
-This is my recipe project, learn how to make three traditional breton dishes. 
+This is my recipe project, learn how to make three delicious dishes. 
 
 The skills used in this website include: 
 - Semantic HTML
@@ -9,6 +9,6 @@ The skills used in this website include:
 - Basic HTML  
 
 The Dishes are: 
-kouign aman 
-crepe ble noir
-.. 
+- Tonkotsu Ramen
+- Coconut Curry Chicken
+- Mango Curry Chicken 
