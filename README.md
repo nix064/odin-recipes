@@ -1,5 +1,5 @@
 # odin-recipes
-This is my recipe project, learn how to make three delicious dishes. 
+This is my recipe project, learn how to make three types of ramen!
 
 The skills used in this website include: 
 - Semantic HTML
@@ -10,5 +10,5 @@ The skills used in this website include:
 
 The Dishes are: 
 - Tonkotsu Ramen
-- Coconut Curry Chicken
-- Mango Curry Chicken 
+- Miso Ramen
+- Spicy Shoyu Ramen
